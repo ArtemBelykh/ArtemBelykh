@@ -1,28 +1,25 @@
-<div align="center">
-<img src="https://media.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Welcome to my Github profile</div>  
   
 
 Hi, my name is Artem, I'm 21 years old!
 
-Work experience:
-- Development and support of web applications on React
-- Working with Redux, React Router(V6), Axios, Material UI, Next JS
-- Optimization of application performance
-- Working with Git, Jira
-- I also work with Backend. Node JS, Express, Nest JS
-More than a year of freelancing at Upwork, developed a CRM system, a medical center website. ([Project on Git](https://github.com/ArtemBelykh/supportapp))
+Hi! My name is Artyom. I am working and developing in the direction of a Backend Web developer, using modern technologies. I am actively engaged in backend development and, if necessary, take on the tasks of frontend development.
 
-Skills:
-- Experience with React, Redux, React Router, Axios, Material UI
-- Knowledge of HTML, CSS, JavaScript
-- Experience with Git, Jira
-- Ability to work in a team and quickly learn new technologies
+Soft Skills:
+- I am sociable and not afraid to take responsibility;
+- I strive to learn and develop existing skills to solve work tasks more effectively;
+- I am capable of independent learning and rapid development of new technologies and tools;
+- I have high stress tolerance and adaptability to new tools and
+technologies.
 
-I am a Frontend developer on React and have knowledge of HTML, CSS and JavaScript. I know how to work in a team and quickly learn new technologies. My projects are in the portfolio on GitHub.  
+Hard Skills:
+- YAP: JavaScript, Go, Python
+- Frontend: React, Redux(RTK), UI libraries(Material UI, Tailwind), NextJS
+- Backend: Node.js, Express JS, NestJS, Go
+- Databases: MySQL, PostgreSQL, MongoDB(mongoose)
+- Development tools: JetBrains Tools, Postman, Git version control system, docker, linux(Configured Nginx, Apache, Samba, Postfix), Virtualization on Proxmox, Hyper-V
+
+I am ready to contribute and participate in the development of your web projects, improving the user experience and bringing fresh ideas to the development team.
   
 
 <br/>  
@@ -53,8 +50,6 @@ I am a Frontend developer on React and have knowledge of HTML, CSS and JavaScrip
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -110,28 +105,12 @@ I am a Frontend developer on React and have knowledge of HTML, CSS and JavaScrip
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemBelykh&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ixx25md9rmlv5vizeihjs3fvv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ArtemBelykh&&style=flat-square" align="center" />
-</div>  
-  
+<br/> 
 
 <br/>  
 
