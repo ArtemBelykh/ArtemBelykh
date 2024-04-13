@@ -13,7 +13,7 @@ Soft Skills:
 technologies.
 
 Hard Skills:
-- YAP: JavaScript, Go, Python
+- Programming languages: JavaScript, Go, Python
 - Frontend: React, Redux(RTK), UI libraries(Material UI, Tailwind), NextJS
 - Backend: Node.js, Express JS, NestJS, Go
 - Databases: MySQL, PostgreSQL, MongoDB(mongoose)
