@@ -3,7 +3,7 @@
 
 Hi, my name is Artem, I'm 21 years old!
 
-Hi! My name is Artyom. I am working and developing in the direction of a Backend Web developer, using modern technologies. I am actively engaged in backend development and, if necessary, take on the tasks of frontend development.
+I am working and developing in the direction of a Backend Web developer, using modern technologies. I am actively engaged in backend development and, if necessary, take on the tasks of frontend development.
 
 Soft Skills:
 - I am sociable and not afraid to take responsibility;
